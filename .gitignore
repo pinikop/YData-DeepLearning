@@ -1,0 +1,5 @@
+**/data
+**/.idea  # Pycharm project files
+**/.ipynb_checkpoints
+**/__pycache__
+env/

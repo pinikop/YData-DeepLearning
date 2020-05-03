@@ -1,0 +1,29 @@
+channels:
+  - pytorch
+  - anaconda
+  - conda-forge
+  - defaults
+  - pip
+dependencies:
+  - python=3.6
+  - jupyterlab
+  - scikit-learn
+  - numpy
+  - tqdm
+  - matplotlib
+  - scipy
+  - pandas
+  - cudatoolkit=10.1
+  - pytorch
+  - torchvision
+  - nltk
+  - gensim
+  - imageio
+  - tensorboard
+  - seaborn
+  - ipywidgets
+  - nodejs=10.13
+  - jupyter_nbextensions_configurator 
+  - pip:
+    - torchsummary==1.5.1
+
